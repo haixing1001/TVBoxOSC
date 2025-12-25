@@ -21,30 +21,15 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
-            repoName: TVBoxOS
-            branchName: main
-            jdkVersion: 17
           - userName: takagen99
             repoName: Box
-            branchName: main
-            jdkVersion: 17
-          - userName: chengxue2020
-            repoName: takagen99
             branchName: main
             jdkVersion: 17
           - userName: FongMi
             repoName: TV
             branchName: release
             jdkVersion: 17
-          - userName: mlabalabala
-            repoName: box
-            branchName: main
-            jdkVersion: 11
-          - userName: Klosw
-            repoName: Box
-            branchName: dev-4.4
-            jdkVersion: 11
+
 
     steps:
       - name: Checkout
