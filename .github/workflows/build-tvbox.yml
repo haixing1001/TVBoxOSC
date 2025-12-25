@@ -21,13 +21,13 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: takagen99
+          - userName: haixing1001
             repoName: Box
             branchName: main
             jdkVersion: 17
-          - userName: FongMi
-            repoName: TV
-            branchName: release
+          - userName: haixing1001
+            repoName: fongmi
+            branchName: fongmi
             jdkVersion: 17
 
 
