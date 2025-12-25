@@ -10,6 +10,6 @@ This repo relies on the following third-party projects:
 | Repository                               | Branch         | Last Update                              | Build Time |
 |------------------------------------------|----------------|------------------------------------------|------------|
 | [haixing1001/fongmi](https://github.com/haixing1001/fongmi)               | release        | 7db2c5389c87cbbdb05f666571c86a8407b479e9  | 2025-12-25 21:21:07 |
-| [haixing1001/Box](https://github.com/haixing1001/box)    | main           | 758fa7bb1cc94f95e0ae8fc91337ae91d98f0cc2 | 2025-12-21 20:13:50 |
+| [haixing1001/Box](https://github.com/haixing1001/box)    | main           | cbd21263c78e0fc3c23059dbc5705159266565ba | 2025-12-25 21:26:41 |
 
-#### update at 2025-12-25 21:21:07
+#### update at 2025-12-25 21:26:41
