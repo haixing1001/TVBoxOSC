@@ -27,7 +27,7 @@ jobs:
             jdkVersion: 17
           - userName: haixing1001
             repoName: fongmi
-            branchName: release
+            branchName: okjack
             jdkVersion: 17
 
 
