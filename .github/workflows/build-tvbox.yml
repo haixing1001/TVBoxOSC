@@ -85,6 +85,8 @@ jobs:
           else
             sed -i "/jitpack.io/a\        maven { url 'https://o0halflife0o.github.io/crosswalk/releases/crosswalk/android/maven2' }" build.gradle
           fi
+          # 1. 添加 chaquo 仓库
+          sed -i "/repositories {/a\        maven { url 'https://chaquo.com/maven' }" build.gradle
           # --- 新增部分开始：修复 pyramid 模块的 Windows 路径问题 ---
           if [ -f "pyramid/build.gradle" ]; then
             echo "Removing hardcoded Windows python path from pyramid/build.gradle"
