@@ -11,6 +11,7 @@ This repo relies on the following third-party projects:
 |------------------------------------------|----------------|------------------------------------------|------------|
 | [haixing1001/fongmi](https://github.com/haixing1001/fongmi)               | okjack        | 87e4dea369abda7caf4e0a5d4486ba401053dcf1  | 2025-12-25 21:43:49 |
 | [haixing1001/Box](https://github.com/haixing1001/box)    | main           | cbd21263c78e0fc3c23059dbc5705159266565ba | 2025-12-26 01:10:13 |
+| [haixing1001/Box](https://github.com/takagen99/box)    | main           | cbd21263c78e0fc3c23059dbc5705159266565ba | 2025-12-26 01:10:13 |
 | [haixing1001/fongmi](https://github.com/haixing1001/fongmi)    | fongmi           | cbd21263c78e0fc3c23059dbc5705159266525ba | 2025-12-26 01:10:13 |
 | [haixing1001/fongmi](https://github.com/haixing1001/fongmi)    | release           | cbd21263c78e0fc3c23059dbc5705159266525ba | 2025-12-26 01:10:13 |
 
